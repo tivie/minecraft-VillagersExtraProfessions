@@ -15,16 +15,16 @@ This resource pack solves that problem by **recreating and adapting the textures
 
 This resource pack includes **adapted textures originally created for the mod [More Villagers: Re-employed](https://modrinth.com/mod/more-villagers-re-employed)**, authored by **[frikinjay](https://modrinth.com/user/frikinjay)**.
 
-### Important Notes
+## Important Notes
 - This is **not a standalone resource pack**.
 - It **requires** the **Villagers [Male and Female]** resource pack to function.
 - It also **requires** the **More Villagers: Re-employed** mod.
 - If either dependency is missing, this resource pack will have no effect.
 
-### Load Order
-To ensure proper functionality, place **Villager Extra Professions** **right below** *Villagers [Male and Female]* in your resource pack list, since it requires the model from *Villagers [Male and Female]* to be loaded first.
+## Load Order
+To ensure proper functionality, place **Villager Extra Professions** **right before** *Villagers [Male and Female]* in your resource pack list, since it requires the model from *Villagers [Male and Female]* to be loaded first.
 
-### Scope
+## Scope
 - No new professions are added.
 - No gameplay changes are introduced.
 - This pack only provides **visual compatibility** between the two projects.
